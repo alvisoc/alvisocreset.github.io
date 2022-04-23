@@ -64,7 +64,7 @@ blockquote {
 
 nav {
       float:left;
-      display:flex;
+      display:inline-block;
       flex-wrap:wrap;
       flex-direction: column;
       width:14rem;
