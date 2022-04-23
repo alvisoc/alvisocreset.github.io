@@ -62,23 +62,23 @@ blockquote {
     font-style:italic;
 }
 
-nav {
+.navbar {
       float:left;
-      display: fixed;
+      display:fixed;
       flex-wrap:wrap;
       flex-direction: column;
       width:14rem;
       border:.0625rem solid #333;
       background-color:#8FB0D0;
-      position:fixed;
+      position:sticky;
 }
 
-nav img {
+.navbar img {
     width:100%;
     border-bottom:.0625rem solid #333;
 }
 
-nav p {
+.navbar p {
     margin:0;
     padding:1rem;
     font-size:.75rem;
