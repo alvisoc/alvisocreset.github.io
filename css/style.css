@@ -62,7 +62,7 @@ blockquote {
     font-style:italic;
 }
 
-.navbar {
+nav {
       float:left;
       display:fixed;
       flex-wrap:wrap;
@@ -70,15 +70,16 @@ blockquote {
       width:14rem;
       border:.0625rem solid #333;
       background-color:#8FB0D0;
-      position:absolute;
+      position:fixed;
+      top:0px;
 }
 
-.navbar img {
+nav img {
     width:100%;
     border-bottom:.0625rem solid #333;
 }
 
-.navbar p {
+nav p {
     margin:0;
     padding:1rem;
     font-size:.75rem;
