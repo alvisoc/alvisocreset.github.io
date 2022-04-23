@@ -64,7 +64,7 @@ blockquote {
 
 nav {
       float:left;
-      display: flex;
+      display: fixed;
       flex-wrap:wrap;
       flex-direction: column;
       width:14rem;
@@ -204,7 +204,7 @@ article>p {
 
 article>p>a {
     
-    color:darkblue;
+    color:blue;
 }
 
 /* || Footer Layout */
