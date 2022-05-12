@@ -31,14 +31,14 @@ body {
     min-width:39rem;
     max-width:50rem;
     margin: 0 auto;:0 auto;
-}
+    }
 main {
     background-color:#ddd;
     background-image:url(images/wrinkled-white-paper-background.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     border:1px solid #333;
-}
+    }
 
 /* ------ START WRITING YOUR CODE BELOW THIS LINE ------ */
 
@@ -63,7 +63,7 @@ h1 {
     text-shadow:.09375rem .09375rem .09375rem #000;
     font-family:'Alfa Slab One', Garamond, serif;
     text-align:center;
-}
+    }
 
 h2 {
     text-transform: uppercase;
@@ -75,7 +75,7 @@ h2 {
     font-family:'Alfa Slab One', Garamond, serif;
     text-align:center;
     font-weight: normal;
-}
+    }
 
 
 h3 {
@@ -100,7 +100,7 @@ h4 {
     font-family:'Alfa Slab One', Garamond, serif;
     text-align:center;
     font-weight:normal;
-}
+    }
 
 h5 {
     font-size:1rem;
@@ -108,9 +108,9 @@ h5 {
     text-align:center;
     padding: .5rem;
     background-color: #333;
-    foreground-color: #FFF ;
+    color: #FFF;
     font-weight:normal;
-}
+    }
 
 /* Section & Paragraph */
 
@@ -150,13 +150,13 @@ footer {
     padding:1rem;
     border-top: 2rem solid #333;
     border-bottom: 2rem solid #333;
-}
+    }
 
 h4 span {
     padding-top: 0; 
     padding-bottom: 0; 
     padding-left: .5rem; 
-    padding-right:. 5rem;
-}
+    padding-right:.5rem;
+    }
 
 
