@@ -102,7 +102,6 @@ h4 {
     text-align:center;
     font-weight:normal;
 }
-}
 
 h5 {
     font-size:1rem;
@@ -121,8 +120,8 @@ section {
 }
 
 p{
-    margin: 0 auto;-top: 1rem; auto;
-    padding: 0 1rem; 
+    margin: 0 auto; top: 1rem;
+    padding: 0; 1rem; 
     width: 90%; 
     text-align: left;
 }
