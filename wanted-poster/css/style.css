@@ -140,7 +140,7 @@ figure {
     margin: 0 auto; bottom: 2rem;
 }
 
-figc
+figcaption
  {
      padding-top: .5rem;
      text-align: right;
@@ -156,7 +156,7 @@ footer {
 }
 
 h4 span {
-    padding: 0 .5rem;
+    padding: 0; .5rem;
 }
 
 
