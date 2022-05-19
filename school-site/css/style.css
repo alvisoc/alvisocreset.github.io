@@ -5,7 +5,7 @@
 }
 
 html {
-    font-size: ;
+    font-size: 16px;
 }
 
 body {
@@ -94,7 +94,7 @@ header, footer {
 
 /* Typography Styles */
 html{
-    font-family: Montserrat, Arial, sans-serif;
+    font-family:montserrat, Arial, sans-serif;
 }
 
 
@@ -107,6 +107,7 @@ h1 {
 }
 
 h2 {
+    
     font-size: 1.5rem;
     letter-spacing: 0.125rem;
     margin: 1.125rem;
@@ -121,14 +122,15 @@ h2 + p {
 
 p {
     font-size: 0.75rem;
-    letter-spacing: 0.3125rem ;
+    letter-spacing: 0.125rem ;
     word-spacing: 0.125rem;
-    
+    margin: 1.125rem;
 }
 
 li {
     font-size: 0.75rem;
-    letter-spacing: 0.3125rem ;
+    letter-spacing: 0.3125rem;
+    word-spacing: 0.125rem;
 }
 figcaption {
     font-size: 0.75rem;
