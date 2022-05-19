@@ -183,8 +183,7 @@ nav {
 
 nav a {
     border:solid #33658A;
-    border-width;
-    /*---remove later lol-----*/
+    border-width: 0.0625rem;
     text-decoration:none;
     display:inline-block;
     width: 100%;
